@@ -5,7 +5,7 @@ import model.Triangulo;
 
 /**
  *
- * @author daviw
+ * @author Davi Wolff
  */
 public class Principal {
     
