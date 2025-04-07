@@ -1,1 +1,1 @@
-# ProjetoCalculoDeTriangulo
+# TrianguloProjeto
